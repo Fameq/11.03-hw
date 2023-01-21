@@ -28,6 +28,8 @@
 
 *Приведите скриншот интерфейса Kibana, на котором видны логи Nginx.*
 
+![Logstash_kibana](https://github.com/Fameq/11.03-hw/blob/master/img/task3.png)
+
 ---
 
 ### Задание 4. Filebeat. 
